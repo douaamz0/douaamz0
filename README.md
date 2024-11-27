@@ -23,6 +23,12 @@ Hello! I'm Douaa, a motivated and ambitious final-year engineering student speci
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
+### **Cloud**  
+![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Consul](https://img.shields.io/badge/-Consul-F24C53?style=flat-square&logo=consul&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+
 ### **Big Data & Data Science**  
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white)
 ![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black)
